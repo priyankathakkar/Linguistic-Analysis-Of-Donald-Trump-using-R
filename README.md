@@ -1,5 +1,4 @@
-#Text Analytics using R
-#Problem Statement
+# Text Analytics using R - Problem Statement
 
 PART 1
 
