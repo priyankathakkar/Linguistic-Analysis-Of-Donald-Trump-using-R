@@ -1,3 +1,6 @@
+#Text Analytics using R
+#Problem Statement
+
 PART 1
 
 Case:
@@ -11,6 +14,7 @@ Create a corpus of their mission statements
 Create a corpus of their core values
 Analyze the corpus and provide insight on how to structure a firm for data-analysis readiness
 Are there any other data-driven approaches you would recommend the CEO to implement?
+
 PART 2
 
 Case:
